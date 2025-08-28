@@ -95,7 +95,7 @@ function App() {
         </div>
       </section>
 
-      {/* ===== Footer ===== */}
+      {/* ===== Footer ==== */}
       <footer>
         <p>© {new Date().getFullYear()} Sami Ur Rehman. All Rights Reserved.</p>
       </footer>
